@@ -82,7 +82,7 @@ You can use your own dataset or sample images for testing.
 
 👨‍💻 Author
 
-**Your Name: ROHITH KUMAR RAJU BHUPATHIRAJU
+Your Name: ROHITH KUMAR RAJU BHUPATHIRAJU
 
 ⭐ Acknowledgements
 
